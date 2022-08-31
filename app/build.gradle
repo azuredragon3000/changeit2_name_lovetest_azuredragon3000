@@ -11,8 +11,8 @@ android {
         applicationId "com.myapp.lovetest_azuredragon3000"
         minSdk 22
         targetSdk 32
-        versionCode 553
-        versionName "553.0"
+        versionCode 554
+        versionName "554.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
